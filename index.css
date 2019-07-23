@@ -1,0 +1,8 @@
+img{
+    max-width: 100%;
+}
+.item{
+    margin: 15px 0;
+    text-align: center;
+    font-weight: 700;
+}
